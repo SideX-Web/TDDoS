@@ -62,12 +62,6 @@ pip install pyfiglet
 
 ![plot](./Screenshots/RDDoS_about.png)
 
-![plot](./Screenshots/RDDoS_ip.png)
-
-![plot](./Screenshots/RDDoS_preparing.png)
-
-![plot](./Screenshots/RDDoS_process.png)
-
 ## Yasal Uyarı
 
 Bu araç yalnızca **eğitim amaçlı** kullanılmalıdır.
