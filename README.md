@@ -8,13 +8,13 @@
 
 ![plot](./Screenshots/RDDoS_main.png)
 
-## RedDDoS Tool Nedir?
+## TrDDoS Tool Nedir?
 
 ```diff
 ! Bu, GitHub üzerindeki en iyi DDoS saldırı aracıdır.
 ```
 
-*RedDDoS Tool*, DDoS saldırıları için geliştirilmiş bir araçtır.
+*TrDDoS Tool*, DDoS saldırıları için geliştirilmiş bir araçtır.
 Bununla ağları/sunucuları/veya diğer cihazları test edebilirsiniz.
 
 ## Nasıl Çalışır?
