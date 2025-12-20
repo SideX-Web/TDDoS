@@ -46,7 +46,7 @@ python3 RDDoS_Tool.py
 ## Tek Satırda Kurulum:
 
 ```
-apt-get update -y && apt-get install git && git clone https://github.com/Red-company/RDDoS_Tool.git && cd RDDoS_Tool && bash setup.sh && python3 RDDoS_Tool.py
+apt-get update -y && apt-get install git && git clone https://github.com/SideX-Web/TDDoS/ && cd TDDoS && pip install tqdm && pip install pyfiglet && python3 tddos.py
 ```
 
 ## Hatalar mı Var? Çözüm Burada:
@@ -69,8 +69,4 @@ Yaptığınız işlemlerden doğacak sorumluluk size aittir.
 
 ##
 
-Bu depodaki tüm materyaller kamu malıdır (public domain).
-
 ---
-
-İstersen bir sonraki adımda **sadece program içi menü/ekran yazılarını** (About, IP, Preparing vb.) ayrı ve birebir Türkçeleştirebilirim.
